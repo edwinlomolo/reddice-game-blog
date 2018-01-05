@@ -1,0 +1,6 @@
+# ignore the following project folders
+node_modules
+build
+coverage
+.env
+dist
